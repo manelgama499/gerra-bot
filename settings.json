@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "orca.aternos.host:64467",
+    "ip": "orca.aternos.host",
     "port": 64467,
     "version": "",
     "try-creative": false
