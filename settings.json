@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "guerramcc.aternos.me",
+    "ip": "orca.aternos.host:64467",
     "port": 64467,
     "version": "",
     "try-creative": false
